@@ -1,0 +1,19 @@
+{
+  "name": "telegram-bot-auto-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoin-address-generator": "^1.0.2",
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.12.5",
+    "telegraf": "^3.38.0"
+  }
+}
